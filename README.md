@@ -33,10 +33,12 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6A5ACD)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusFelipe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFelipe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6A5ACD)  
 
 </div>
+
 
 ---
 
